@@ -1,8 +1,7 @@
-# Teste_Cognitivo
-Teste Cognitivo Preço de Acomodações Airbnb Rio de Janeiro
+# Preço de Acomodações Airbnb Rio de Janeiro
 
 
-## Questões Enviadas
+## Questões
 
 a. Como foi a definição da sua estratégia de modelagem?
 - Nas etapas de limpeza e pré-processamento utilizei métodos de normalização de variáveis, remoção de outliers, tratamento de valores nulos e incoerentes.
